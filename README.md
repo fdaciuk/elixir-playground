@@ -1,2 +1,2 @@
-# elixir playground
+# Elixir playground
 Playing with Elixir
